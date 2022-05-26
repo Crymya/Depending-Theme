@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78.06" height="9.68" viewBox="0 0 78.06 9.68">
+  <defs>
+    <filter id="Thumb">
+      <feOffset dx="0.819" dy="0.574" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.102" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Thumb-2">
+      <feOffset dx="0.819" dy="0.574" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.102" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Thumb_Active">
+      <feOffset dx="0.819" dy="0.574" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-opacity="0.102" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Thumb-3">
+      <feOffset dx="0.819" dy="0.574" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-4"/>
+      <feFlood flood-opacity="0.102" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Thumb-4">
+      <feOffset dx="0.819" dy="0.574" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-5"/>
+      <feFlood flood-opacity="0.102" result="color-5"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-5"/>
+      <feComposite operator="in" in="color-5"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Thumbs" transform="translate(-600 -565)">
+    <g data-type="innerShadowGroup">
+      <circle id="Thumb-5" data-name="Thumb" cx="4.84" cy="4.84" r="4.84" transform="translate(600 565)" fill="#433333"/>
+      <g transform="matrix(1, 0, 0, 1, 600, 565)" filter="url(#Thumb)">
+        <circle id="Thumb-6" data-name="Thumb" cx="4.84" cy="4.84" r="4.84" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <circle id="Thumb-7" data-name="Thumb" cx="4.84" cy="4.84" r="4.84" transform="translate(618.09 565)" fill="#433333"/>
+      <g transform="matrix(1, 0, 0, 1, 600, 565)" filter="url(#Thumb-2)">
+        <circle id="Thumb-8" data-name="Thumb" cx="4.84" cy="4.84" r="4.84" transform="translate(18.09)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <circle id="Thumb_Active-2" data-name="Thumb Active" cx="4.84" cy="4.84" r="4.84" transform="translate(635.19 565)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 600, 565)" filter="url(#Thumb_Active)">
+        <circle id="Thumb_Active-3" data-name="Thumb Active" cx="4.84" cy="4.84" r="4.84" transform="translate(35.19)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <circle id="Thumb-9" data-name="Thumb" cx="4.84" cy="4.84" r="4.84" transform="translate(652.28 565)" fill="#433333"/>
+      <g transform="matrix(1, 0, 0, 1, 600, 565)" filter="url(#Thumb-3)">
+        <circle id="Thumb-10" data-name="Thumb" cx="4.84" cy="4.84" r="4.84" transform="translate(52.28)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <circle id="Thumb-11" data-name="Thumb" cx="4.84" cy="4.84" r="4.84" transform="translate(668.38 565)" fill="#433333"/>
+      <g transform="matrix(1, 0, 0, 1, 600, 565)" filter="url(#Thumb-4)">
+        <circle id="Thumb-12" data-name="Thumb" cx="4.84" cy="4.84" r="4.84" transform="translate(68.38)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
